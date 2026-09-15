@@ -47,12 +47,19 @@ I build **resource-efficient, interpretable machine-learning systems**, with a f
 
 ## Featured code
 
-- [ML_PACFNet_Code](https://github.com/pkhunter47/ML_PACFNet_Code) — synchronized ECG–PCG cardiac anomaly detection experiments
-- [Pressure Ulcer](https://github.com/pkhunter47/pressure-Ulcer) — medical-image deep-learning notebooks
-- [Fruit Freshness Classification](https://github.com/pkhunter47/CNN-on-Fruits-fresh-and-rotten-for-classification-dataset) — CNN-based image classification
-- [Python Chatbot](https://github.com/pkhunter47/Python-chatbot) — conversational application built in Python
+- [Improved Deep PACFNet](https://github.com/pkhunter47/ML_PACFNet_Code) — synchronized ECG–PCG cardiac anomaly detection
+- [Brain Tumor MRI Research](https://github.com/pkhunter47/brain-tumor-mri-research) — CerebriLite-CAM and NeuroEffiNet experiments
+- [LiteTC-PolypNet-B0](https://github.com/pkhunter47/litetc-polypnet-b0) — lightweight boundary-aware polyp segmentation
+- [Rare Disease Onset Prediction](https://github.com/pkhunter47/rare-disease-onset-prediction) — Orphadata, CatBoost, text, and graph features
+- [Budget-Aware LLM Unit Testing](https://github.com/pkhunter47/budget-aware-llm-unit-testing) — mutation-guided test generation under resource limits
+- [Cross-Domain SciBERT Analysis](https://github.com/pkhunter47/cross-domain-scibert-analysis) — AI-vs-human scientific-text representation transfer
 
-> I am currently converting my research notebooks into clean, reproducible repositories with documented datasets, environments, experiments, and results.
+### Additional research repositories
+
+- [DeepLabNet Liver Ultrasound](https://github.com/pkhunter47/deeplabnet-liver-ultrasound)
+- [AI Usage and Learning Barriers](https://github.com/pkhunter47/ai-usage-learning-barriers)
+- [HAM10000 Multitask Learning](https://github.com/pkhunter47/skin-cancer-multitask-learning)
+- [Pressure Ulcer Analysis](https://github.com/pkhunter47/pressure-Ulcer)
 
 ## Technical toolkit
 
