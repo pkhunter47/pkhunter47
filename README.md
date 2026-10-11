@@ -10,6 +10,7 @@ Computer Science undergraduate at **American International University-Bangladesh
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Protik_Biswas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/protik-biswas-83001827b/)
 [![Email](https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:protikbiswas3099@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-pkhunter47-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pkhunter47)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0005--3996--8312-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-3996-8312)
 
 </div>
 
@@ -85,3 +86,5 @@ I have also built an online hostel-management system, a Java technology applicat
 I welcome collaboration on **medical AI, efficient deep learning, multimodal systems, NLP, and dependable AI-assisted software engineering**. I am actively exploring international and remote roles where I can contribute to applied research and production-oriented ML work.
 
 📫 **protikbiswas3099@gmail.com**
+
+🆔 **ORCID:** [0009-0005-3996-8312](https://orcid.org/0009-0005-3996-8312)
